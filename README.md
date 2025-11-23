@@ -5,7 +5,7 @@
 News-app is an android application, built using [**newsapi.org**](https://newsapi.org) API's.
 
 You can view lots of news from different sources across the world.</br>
-Check out the [**latest release**](https://github.com/alibardide5124/News-app/releases/latest) to download signed apk.
+Check out the [**latest release**](https://github.com/alibardide-dev/News-app/releases/latest) to download signed apk.
 
 ## Features
 News-app features basic feed functionality, including:
@@ -48,16 +48,16 @@ It also has a responsive UI for Mobile / Tablet / Desktop screens.
 - **Coil** to load network from url
 
 ## Setup
-- Clone reposity by running `git clone https://github.com/alibardide5124/News-app`
+- Clone reposity by running `git clone https://github.com/alibardide-dev/News-app`
 - Install Android Studio and Android SDK
 - Build project with Ctrl + F9
 - Install Virtual Machine or connect a Physical Device
 - Run using Shift + F10
 
 ## Support
-If you like this application, just support it by joining [**stargazers**](https://github.com/alibardide5124/News-app/stargazers) for this repository
+If you like this application, just support it by joining [**stargazers**](https://github.com/alibardide-dev/News-app/stargazers) for this repository
 <br/>
-And [**follow me**](https://github.com/alibardide5124?tab=followers) for my next creations
+And [**follow me**](https://github.com/alibardide-dev?tab=followers) for my next creations
 
 ## License
-News app by [Ali Bardide](https://github.com/alibardide5124) is licensed under a [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+News app by [Ali Bardide](https://github.com/alibardide-dev) is licensed under a [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
